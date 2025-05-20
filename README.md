@@ -22,7 +22,7 @@ gradio
 LCFT Train
 
 ```
-bash ./shell/instruct_7B.sh random_seed
+bash ./shell/train.sh random_seed
 ```
 
 LCFT Evluate
